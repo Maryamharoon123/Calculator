@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+#heading{
+    text-align: center;
+}
+.maincontainer{
+  border: 3px solid black;
+  padding: 10px;
+  border-radius: 20px;  
+  background-color: rgb(37, 201, 255);
+ 
+}
+.symbols{
+    margin-top: 20px;
+    margin-left: 20px;  
+}
+#num1{
+    margin-bottom: 12px;
+}
+.styling{
+    color: white;
+    background-color: rgb(101, 153, 170);
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 30px;
+    height: 20px;
+}
